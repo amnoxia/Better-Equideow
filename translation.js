@@ -92,7 +92,7 @@ class Translation {
     const hostname = (new URL(url)).hostname
     if (hostname.includes('equideow')) {
       return 'fr'
-    } else if (hostname.includes('howrse.com')) {
+    } else if (hostname.includes('howrse.co.uk')) {
       return 'en'
     }
 
