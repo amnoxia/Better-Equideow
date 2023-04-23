@@ -16,7 +16,7 @@
       "matches": [
         "*://*.equideow.com/*",
         "*://*.howrse.com/*",
-        "*://*.howrse.co.uk/*"
+        "*://*.howrse.co.uk/*",
         "*://*.howrse.no/*"
       ],
       "run_at": "document_end",
