@@ -42,17 +42,17 @@ class Translation {
           trot: 'Trot',
           gallop: 'Gallop',
           dressage: 'Dressage',
-          crossCountry: 'Cross-country',
-          showJumping: 'Show jumping',
-          barrelRacing: 'Barrel racing',
+          crossCountry: 'Cross Country',
+          showJumping: 'Show Jumping',
+          barrelRacing: 'Barrel Racing',
           cutting: 'Cutting',
-          trailClass: 'Trail class',
+          trailClass: 'Trail Class',
           reining: 'Reining',
-          westernPleasure: 'Western pleasure',
-          disclaimer: 'The higher the coefficient, the greater the chance of winning'
+          westernPleasure: 'Western Pleasure',
+          disclaimer: 'Higher The Better'
         },
         other: {
-          pet: 'Pet: ',
+          pet: 'Companion: ',
           pg: 'GP: ',
           skills: 'Skills: '
         }
