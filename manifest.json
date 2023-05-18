@@ -23,7 +23,6 @@
       "js": [
         "translation.js",
         "loadingDisplayObserver.js",
-        "moreInfos.js",
         "foodSelect.js"
       ]
     }
