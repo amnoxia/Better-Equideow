@@ -24,7 +24,6 @@
         "translation.js",
         "loadingDisplayObserver.js",
         "moreInfos.js",
-        "horseStats.js",
         "foodSelect.js"
       ]
     }
